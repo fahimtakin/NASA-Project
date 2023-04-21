@@ -1,5 +1,5 @@
 const express = require("express");
-const { get } = require("../../app");
+const express = require("express");
 
 const planetsRouter = express.Router();
 
