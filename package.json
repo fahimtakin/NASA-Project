@@ -16,6 +16,7 @@
   "author": "Fahim Takin",
   "license": "ISC",
   "dependencies": {
-    "concurrently": "^8.0.1"
+    "concurrently": "^8.0.1",
+    "morgan": "^1.10.0"
   }
 }
